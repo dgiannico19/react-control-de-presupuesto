@@ -2,12 +2,9 @@
   margin-bottom: 0 !important;
 }
 body {
-  /* background: #000428; //fallback for old browsers */
-  /* background: -webkit-linear-gradient(to right, #2a90e9, #060e53); */
-  /* background: linear-gradient(to right, #63b1f5, #000428); */
-  background: url(stellrweb-djb1whucfBY-unsplash.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: #000428;
+  background: -webkit-linear-gradient(to right, #2a90e9, #060e53);
+
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -44,7 +41,7 @@ h1 {
 h2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
-  color: #004e92;
+  color: rgb(135, 167, 241);
   margin-bottom: 30px;
   font-size: 3rem !important;
   text-align: center;
